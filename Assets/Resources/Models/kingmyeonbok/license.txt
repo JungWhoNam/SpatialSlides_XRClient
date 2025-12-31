@@ -1,0 +1,11 @@
+Model Information:
+* title:	King(Myeonbok)
+* source:	https://sketchfab.com/3d-models/kingmyeonbok-2a777a20f51445c48ab3f3d543d07ace
+* author:	KOREA HERITAGE SERVICE [KHS] (https://sketchfab.com/KHS_Asset)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "King(Myeonbok)" (https://sketchfab.com/3d-models/kingmyeonbok-2a777a20f51445c48ab3f3d543d07ace) by KOREA HERITAGE SERVICE [KHS] (https://sketchfab.com/KHS_Asset) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
