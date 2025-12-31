@@ -4,7 +4,7 @@ SpatialSlides is a system that integrates immersive authoring directly into slid
 
 This XR client connects to the companion Python Middleware to synchronize 3D content with PowerPoint presentations.
 
-For the Unity Client source code and full system documentation, visit the main repository: **[SpatialSlides](https://github.com/JungWhoNam/SpatialSlides)**
+For the Python middleware source code and full system documentation, visit the main repository: **[SpatialSlides](https://github.com/JungWhoNam/SpatialSlides)**
 
 ## Project Structure
 
